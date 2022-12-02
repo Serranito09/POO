@@ -1,0 +1,189 @@
+Start testing: Nov 03 12:12 CET
+----------------------------------------------------------
+1/5 Testing: person_gtests
+1/5 Test: person_gtests
+Command: "/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests/person_test"
+Directory: /home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests
+"person_gtests" start time: Nov 03 12:12 CET
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from Person
+[ RUN      ] Person.ConstructorDefaultParam
+[       OK ] Person.ConstructorDefaultParam (0 ms)
+[ RUN      ] Person.ConstructorParam
+[       OK ] Person.ConstructorParam (0 ms)
+[ RUN      ] Person.Entry_year_test
+[       OK ] Person.Entry_year_test (0 ms)
+[ RUN      ] Person.Function_get_full_address
+[       OK ] Person.Function_get_full_address (0 ms)
+[ RUN      ] Person.DefaultCopyConstructor
+[       OK ] Person.DefaultCopyConstructor (0 ms)
+[ RUN      ] Person.DefaultEqualOperator
+[       OK ] Person.DefaultEqualOperator (0 ms)
+[----------] 6 tests from Person (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"person_gtests" end time: Nov 03 12:12 CET
+"person_gtests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: product_gtests
+2/5 Test: product_gtests
+Command: "/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests/product_test"
+Directory: /home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests
+"product_gtests" start time: Nov 03 12:12 CET
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from Product
+[ RUN      ] Product.ConstructorDefaultParam
+[       OK ] Product.ConstructorDefaultParam (0 ms)
+[ RUN      ] Product.ConstructorParam
+[       OK ] Product.ConstructorParam (0 ms)
+[ RUN      ] Product.ProductSetters
+[       OK ] Product.ProductSetters (0 ms)
+[----------] 3 tests from Product (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"product_gtests" end time: Nov 03 12:12 CET
+"product_gtests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: tv_gtests
+3/5 Test: tv_gtests
+Command: "/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests/tv_test"
+Directory: /home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests
+"tv_gtests" start time: Nov 03 12:12 CET
+Output:
+----------------------------------------------------------
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from Tv
+[ RUN      ] Tv.ConstructorDefaultParam
+[       OK ] Tv.ConstructorDefaultParam (0 ms)
+[ RUN      ] Tv.ConstructorParam
+[       OK ] Tv.ConstructorParam (0 ms)
+[ RUN      ] Tv.TvSetters
+[       OK ] Tv.TvSetters (0 ms)
+[ RUN      ] Tv.Tv_set_inch
+[       OK ] Tv.Tv_set_inch (0 ms)
+[----------] 4 tests from Tv (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"tv_gtests" end time: Nov 03 12:12 CET
+"tv_gtests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: computer_gtests
+4/5 Test: computer_gtests
+Command: "/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests/computer_test"
+Directory: /home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests
+"computer_gtests" start time: Nov 03 12:12 CET
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from Computer
+[ RUN      ] Computer.ConstructorDefaultParam
+[       OK ] Computer.ConstructorDefaultParam (0 ms)
+[ RUN      ] Computer.ConstructorParam
+[       OK ] Computer.ConstructorParam (0 ms)
+[ RUN      ] Computer.ComputerSetters
+[       OK ] Computer.ComputerSetters (0 ms)
+[----------] 3 tests from Computer (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"computer_gtests" end time: Nov 03 12:12 CET
+"computer_gtests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: basket_gtests
+5/5 Test: basket_gtests
+Command: "/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests/basket_test2"
+Directory: /home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/tests
+"basket_gtests" start time: Nov 03 12:12 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from Basket
+[ RUN      ] Basket.ZeroProducts
+[       OK ] Basket.ZeroProducts (0 ms)
+[ RUN      ] Basket.AddProduct
+[       OK ] Basket.AddProduct (0 ms)
+[ RUN      ] Basket.AddMoreProducts
+/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/tests/basket_test2.cc:42: Failure
+Expected equality of these values:
+  6
+  b.get_size()
+    Which is: 8
+[  FAILED  ] Basket.AddMoreProducts (0 ms)
+[ RUN      ] Basket.DeleteProductsP
+/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/tests/basket_test2.cc:60: Failure
+Expected equality of these values:
+  6
+  b.get_size()
+    Which is: 8
+/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/tests/basket_test2.cc:62: Failure
+Expected equality of these values:
+  6
+  b.get_size()
+    Which is: 8
+/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/tests/basket_test2.cc:64: Failure
+Expected equality of these values:
+  5
+  b.get_size()
+    Which is: 8
+/home/alvaro/Escritorio/UNIVERSIDAD/primer cuatri/poo/marketplace/tests/basket_test2.cc:66: Failure
+Expected equality of these values:
+  4
+  b.get_size()
+    Which is: 8
+[  FAILED  ] Basket.DeleteProductsP (0 ms)
+[----------] 4 tests from Basket (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+[  FAILED  ] 2 tests, listed below:
+[  FAILED  ] Basket.AddMoreProducts
+[  FAILED  ] Basket.DeleteProductsP
+
+ 2 FAILED TESTS
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"basket_gtests" end time: Nov 03 12:12 CET
+"basket_gtests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 03 12:12 CET
